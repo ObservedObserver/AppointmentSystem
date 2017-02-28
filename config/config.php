@@ -3,9 +3,9 @@
 结构设计，对类的操作，尤其是基于实际的文件上传，调用的；尽量将该操作置于主目录下。
 对于分类页面的设立，可以通过主页面的php引用分目录下的php再对类进行操作，以确保相对路径的正确。
 */
-define("MYSQL_IP","localhost");//数据库地址
-define("MYSQL_USER","root");//数据库账号
-define("MYSQL_PASSWD","LChina7988");//数据库密码
+define("MYSQL_IP","");//数据库地址
+define("MYSQL_USER","");//数据库账号
+define("MYSQL_PASSWD","");//数据库密码
 define("DOC_PATH","c://Appserv/www/Appfix/");//网站的文件位置，末尾+‘/’;如：c://Appserv/www/App/
 define("URL","http://localhost/Appfix/");//网站的地址，末尾+'/';如http://localhost/App/
 ?>
