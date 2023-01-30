@@ -1,8 +1,6 @@
-ÒÆÖ²ÐÞ¸ÄÄ¿Â¼£º./config/config.php
-Êý¾Ý¿âÐÅÏ¢£º./config/app.sql
-ÏîÄ¿¿ª·¢ºÄÊ±£º34 h
-¿ª·¢ÕßÐÅÏ¢£º
+ç§»æ¤ä¿®æ”¹ç›®å½•ï¼š./config/config.php
+æ•°æ®åº“ä¿¡æ¯ï¼š./config/app.sql
+é¡¹ç›®å¼€å‘è€—æ—¶ï¼š34 h
+å¼€å‘è€…ä¿¡æ¯ï¼š
 ID:Observed Observer
-Blog:ooer.space
-email:MasterHaoChen@icloud.com or 15711001@bjtu.edu.cn
-±¾ÏµÍ³ÒâÔÚÎª±±¾©½»Í¨´óÑ§Íþº£Ð£ÇøµÄÊ¦ÉúÌá¹©¸ßÐ§µÄÔ¤Ô¼¹ÜÀí·þÎñ£¬¿ª·¢Ê±ÍêÈ«»ùÓÚÄÚÍø»·¾³Éè¼Æ£¬²»±£Ö¤ÔÚ¹«ÍøÉÏµÄ°²È«ÐÔ£»ºóÆÚ»á»ùÓÚ¾­·ÑÓëÊ±¼ä¿¼ÂÇÊÇ·ñ¼ÌÐø¿ª·¢¸üÐÂ£¬ºóÐøÐÅÏ¢Ò²»áÔÚÄÚÍøÕýÊ½ÉÏÏßºó·¢²¼ÔÚGithubÉÏ£¬»¶Ó­¸ü¶àµÄ¿ª·¢Õß¼ÓÈë¡£
+é¢„çº¦ç®¡ç†æœåŠ¡ç³»ç»Ÿï¼Œå¼€å‘æ—¶å®Œå…¨åŸºäºŽå†…ç½‘çŽ¯å¢ƒè®¾è®¡ï¼Œä¸ä¿è¯åœ¨å…¬ç½‘ä¸Šçš„å®‰å…¨æ€§
